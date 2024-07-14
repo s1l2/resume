@@ -1,0 +1,40 @@
+    
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: red !important;
+        }
+        .green-centered {
+            color: green;
+        }
+        .blue-centered {
+            color: blue;
+        }
+        .small-centered-image {
+            width: 142px;
+            height: 142px;
+            display: block;
+            margin: 20px auto;
+        }
+        .button {
+            background-color: #04AA6D;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 10px 0;
+            cursor: pointer;
+        }
+        .button2 {
+            background-color: #008CBA;
+        }
+        .flag-image {
+            vertical-align: middle;
+            width: 42px;
+            height: 21px;
+            margin-left: 10px;
+        }
+   
